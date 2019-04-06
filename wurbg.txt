@@ -1,0 +1,296 @@
+1 Tezzeret, Artifice Master (M19) 79
+1 Vivien Reid (M19) 208
+1 Nicol Bolas, the Ravager (M19) 218
+4 Guild Summit (GRN) 41
+4 Circuitous Route (GRN) 125
+1 Ral, Izzet Viceroy (GRN) 195
+1 Vraska, Golgari Queen (GRN) 213
+1 Boros Guildgate (GRN) 243
+1 Dimir Guildgate (GRN) 245
+1 Golgari Guildgate (GRN) 248
+3 Izzet Guildgate (GRN) 251
+1 Overgrown Tomb (GRN) 253
+1 Sacred Foundry (GRN) 254
+1 Selesnya Guildgate (GRN) 255
+1 Temple Garden (GRN) 258
+1 Watery Grave (GRN) 259
+3 Archway Angel (RNA) 3
+4 Gates Ablaze (RNA) 102
+1 Dovin, Grand Arbiter (RNA) 167
+3 Growth Spiral (RNA) 178
+1 Rakdos, the Showstopper (RNA) 199
+1 Azorius Guildgate (RNA) 243
+1 Blood Crypt (RNA) 245
+3 Gruul Guildgate (RNA) 249
+1 Hallowed Fountain (RNA) 251
+4 Plaza of Harmony (RNA) 254
+1 Rakdos Guildgate (RNA) 255
+3 Simic Guildgate (RNA) 257
+2 Karn, Scion of Urza (DAR) 1
+1 Muldrotha, the Gravetide (DAR) 199
+3 Oath of Teferi (DAR) 200
+1 Angrath, the Flame-Chained (RIX) 152
+2 Vraska, Relic Seeker (XLN) 232
+1 Jace, Cunning Castaway (XLN) 60
+
+4 Guild Summit (GRN) 41
+2 Lava Coil (GRN) 108
+4 Circuitous Route (GRN) 125
+4 Dimir Guildgate (GRN) 245
+1 Gateway Plaza (GRN) 247
+4 Golgari Guildgate (GRN) 248
+4 Izzet Guildgate (GRN) 251
+4 Selesnya Guildgate (GRN) 255
+2 Archway Angel (RNA) 3
+4 Gates Ablaze (RNA) 102
+4 Gatebreaker Ram (RNA) 126
+4 Growth Spiral (RNA) 178
+2 Rhythm of the Wild (RNA) 201
+4 Gate Colossus (RNA) 232
+1 Gateway Plaza (RNA) 247
+2 Gruul Guildgate (RNA) 249
+2 Plaza of Harmony (RNA) 254
+2 Simic Guildgate (RNA) 257
+2 Ghalta, Primal Hunger (RIX) 130
+4 Twilight Prophet (RIX) 88
+
+1 Memorial to Genius (DAR) 243
+2 Board the Weatherlight (DAR) 8
+1 Memorial to Folly (DAR) 242
+4 Chamber Sentry (GRN) 232
+1 Memorial to Unity (DAR) 245
+2 Watery Grave (GRN) 259
+1 Steam Vents (GRN) 257
+1 Hallowed Fountain (RNA) 251
+1 Godless Shrine (RNA) 248
+1 Blood Crypt (RNA) 245
+1 Overgrown Tomb (GRN) 253
+1 Stomping Ground (RNA) 259
+1 Sacred Foundry (GRN) 254
+1 Temple Garden (GRN) 258
+1 Breeding Pool (RNA) 246
+1 Glacial Fortress (XLN) 255
+1 Isolated Chapel (DAR) 241
+1 Drowned Catacomb (XLN) 253
+1 Sulfur Falls (DAR) 247
+1 Sunpetal Grove (XLN) 257
+1 Clifftop Retreat (DAR) 239
+1 Rootbound Crag (XLN) 256
+1 Woodland Cemetery (DAR) 248
+1 Dragonskull Summit (XLN) 252
+1 Hinterland Harbor (DAR) 240
+2 Chromatic Lantern (GRN) 233
+1 Jhoira, Weatherlight Captain (DAR) 197
+4 Hydroid Krasis (RNA) 183
+2 Hadana's Climb (RIX) 158
+1 Zahid, Djinn of the Lamp (DAR) 76
+1 Tatyova, Benthic Druid (DAR) 206
+1 Jodah, Archmage Eternal (DAR) 198
+4 Sparring Construct (DAR) 232
+4 Awakened Amalgam (RIX) 175
+1 Triumph of Gerrard (DAR) 38
+4 Mortify (RNA) 192
+4 Cast Down (DAR) 81
+1 Captive Audience (RNA) 160
+
+1 Gift of Paradise (M19) 184
+3 Guild Summit (GRN) 41
+4 Circuitous Route (GRN) 125
+2 Chance for Glory (GRN) 159
+2 Deafening Clarion (GRN) 165
+1 Boros Guildgate (GRN) 243
+1 Dimir Guildgate (GRN) 246
+2 Golgari Guildgate (GRN) 248
+2 Izzet Guildgate (GRN) 252
+3 Selesnya Guildgate (GRN) 256
+3 Archway Angel (RNA) 3
+4 Gates Ablaze (RNA) 102
+4 Growth Spiral (RNA) 178
+4 Hydroid Krasis (RNA) 183
+1 Azorius Guildgate (RNA) 243
+4 Gateway Plaza (RNA) 247
+1 Gruul Guildgate (RNA) 249
+1 Orzhov Guildgate (RNA) 253
+4 Plaza of Harmony (RNA) 254
+1 Rakdos Guildgate (RNA) 255
+4 Simic Guildgate (RNA) 258
+1 Swamp (RNA) 262
+2 Lich's Mastery (DAR) 98
+2 The Mirari Conjecture (DAR) 57
+2 Mastermind's Acquisition (RIX) 77
+1 Nezahal, Primal Tide (RIX) 45
+
+1 Gift of Paradise (M19) 184
+3 Guild Summit (GRN) 41
+4 Circuitous Route (GRN) 125
+2 Chance for Glory (GRN) 159
+2 Deafening Clarion (GRN) 165
+1 Boros Guildgate (GRN) 243
+1 Dimir Guildgate (GRN) 246
+2 Golgari Guildgate (GRN) 248
+2 Izzet Guildgate (GRN) 252
+3 Selesnya Guildgate (GRN) 256
+3 Archway Angel (RNA) 3
+4 Gates Ablaze (RNA) 102
+4 Growth Spiral (RNA) 178
+4 Hydroid Krasis (RNA) 183
+1 Azorius Guildgate (RNA) 243
+4 Gateway Plaza (RNA) 247
+1 Gruul Guildgate (RNA) 249
+1 Orzhov Guildgate (RNA) 253
+4 Plaza of Harmony (RNA) 254
+1 Rakdos Guildgate (RNA) 255
+4 Simic Guildgate (RNA) 258
+1 Swamp (RNA) 262
+2 Lich's Mastery (DAR) 98
+2 The Mirari Conjecture (DAR) 57
+2 Mastermind's Acquisition (RIX) 77
+1 Nezahal, Primal Tide (RIX) 45
+
+4 Guild Summit (GRN) 41
+2 Lava Coil (GRN) 108
+4 Circuitous Route (GRN) 125
+2 Deafening Clarion (GRN) 165
+2 Expansion // Explosion (GRN) 224
+1 Dimir Guildgate (GRN) 245
+4 Izzet Guildgate (GRN) 251
+1 Selesnya Guildgate (GRN) 255
+4 Forest (GRN) 264
+2 Archway Angel (RNA) 3
+4 Gates Ablaze (RNA) 102
+4 Gatebreaker Ram (RNA) 126
+4 Growth Spiral (RNA) 178
+2 Hydroid Krasis (RNA) 183
+3 Gate Colossus (RNA) 232
+1 Azorius Guildgate (RNA) 243
+2 Breeding Pool (RNA) 246
+1 Gateway Plaza (RNA) 247
+4 Gruul Guildgate (RNA) 249
+4 Plaza of Harmony (RNA) 254
+4 Simic Guildgate (RNA) 257
+1 Negate (RIX) 44
+
+1 Mountain (XLN) 273
+2 Forest (XLN) 277
+1 Banefire (M19) 130
+3 Guild Summit (GRN) 41
+3 Circuitous Route (GRN) 125
+3 Assassin's Trophy (GRN) 152
+2 Deafening Clarion (GRN) 165
+2 Boros Guildgate (GRN) 244
+1 Dimir Guildgate (GRN) 246
+1 Golgari Guildgate (GRN) 248
+2 Izzet Guildgate (GRN) 251
+3 Selesnya Guildgate (GRN) 256
+1 Archway Angel (RNA) 3
+4 Gates Ablaze (RNA) 102
+4 Gatebreaker Ram (RNA) 126
+4 Open the Gates (RNA) 133
+3 Growth Spiral (RNA) 178
+4 Gate Colossus (RNA) 232
+2 Azorius Guildgate (RNA) 243
+3 Gruul Guildgate (RNA) 249
+1 Orzhov Guildgate (RNA) 252
+2 Plaza of Harmony (RNA) 254
+3 Simic Guildgate (RNA) 257
+3 Teferi, Hero of Dominaria (DAR) 207
+2 Ixalan's Binding (XLN) 17
+
+1 Mountain (XLN) 273
+2 Forest (XLN) 277
+1 Banefire (M19) 130
+3 Guild Summit (GRN) 41
+3 Circuitous Route (GRN) 125
+3 Assassin's Trophy (GRN) 152
+2 Deafening Clarion (GRN) 165
+2 Boros Guildgate (GRN) 244
+1 Dimir Guildgate (GRN) 246
+2 Golgari Guildgate (GRN) 249
+2 Izzet Guildgate (GRN) 251
+3 Selesnya Guildgate (GRN) 256
+1 Archway Angel (RNA) 3
+4 Gates Ablaze (RNA) 102
+4 Gatebreaker Ram (RNA) 126
+4 Open the Gates (RNA) 133
+3 Growth Spiral (RNA) 178
+4 Gate Colossus (RNA) 232
+2 Azorius Guildgate (RNA) 243
+3 Gruul Guildgate (RNA) 249
+1 Orzhov Guildgate (RNA) 252
+2 Plaza of Harmony (RNA) 254
+1 Rakdos Guildgate (RNA) 255
+3 Simic Guildgate (RNA) 257
+3 Teferi, Hero of Dominaria (DAR) 207
+2 Ixalan's Binding (XLN) 17
+
+3 Chart a Course (XLN) 48
+1 Island (XLN) 265
+1 Mountain (XLN) 273
+3 Forest (XLN) 277
+2 Lathliss, Dragon Queen (M19) 149
+3 Sarkhan, Fireblood (M19) 154
+1 Chromium, the Mutable (M19) 214
+1 Palladia-Mors, the Ruiner (M19) 219
+1 Vaevictis Asmadi, the Dire (M19) 225
+1 Nicol Bolas, the Ravager (M19) 218
+4 Guild Summit (GRN) 41
+3 Circuitous Route (GRN) 125
+2 Expansion // Explosion (GRN) 224
+2 Dimir Guildgate (GRN) 246
+2 Gateway Plaza (GRN) 247
+3 Izzet Guildgate (GRN) 251
+2 Selesnya Guildgate (GRN) 256
+4 Gates Ablaze (RNA) 102
+3 Growth Spiral (RNA) 178
+3 Azorius Guildgate (RNA) 243
+3 Gruul Guildgate (RNA) 249
+4 Plaza of Harmony (RNA) 254
+3 Simic Guildgate (RNA) 257
+1 Darigaaz Reincarnated (DAR) 193
+2 Primevals' Glorious Rebirth (DAR) 201
+1 Zacama, Primal Calamity (RIX) 174
+1 Zetalpa, Primal Dawn (RIX) 30
+
+2 Cleansing Nova (M19) 9
+3 Fountain of Renewal (M19) 235
+3 Devious Cover-Up (GRN) 35
+4 Guild Summit (GRN) 41
+2 Sinister Sabotage (GRN) 54
+2 Dimir Guildgate (GRN) 245
+4 Gateway Plaza (GRN) 247
+2 Golgari Guildgate (GRN) 248
+4 Izzet Guildgate (GRN) 251
+2 Ill-Gotten Inheritance (RNA) 77
+4 Gates Ablaze (RNA) 102
+3 Growth Spiral (RNA) 178
+3 Mortify (RNA) 192
+3 Azorius Guildgate (RNA) 244
+2 Orzhov Guildgate (RNA) 252
+3 Rakdos Guildgate (RNA) 255
+3 Simic Guildgate (RNA) 257
+3 Cast Down (DAR) 81
+2 Gaea's Blessing (DAR) 161
+3 Syncopate (DAR) 67
+4 Vraska's Contempt (XLN) 129
+
+2 Cleansing Nova (M19) 9
+3 Fountain of Renewal (M19) 235
+3 Devious Cover-Up (GRN) 35
+4 Guild Summit (GRN) 41
+2 Sinister Sabotage (GRN) 54
+2 Dimir Guildgate (GRN) 245
+4 Gateway Plaza (GRN) 247
+2 Golgari Guildgate (GRN) 248
+4 Izzet Guildgate (GRN) 251
+2 Ill-Gotten Inheritance (RNA) 77
+4 Gates Ablaze (RNA) 102
+3 Growth Spiral (RNA) 178
+3 Mortify (RNA) 192
+3 Azorius Guildgate (RNA) 243
+2 Orzhov Guildgate (RNA) 252
+3 Rakdos Guildgate (RNA) 255
+3 Simic Guildgate (RNA) 257
+3 Cast Down (DAR) 81
+2 Gaea's Blessing (DAR) 161
+3 Syncopate (DAR) 67
+4 Vraska's Contempt (XLN) 129

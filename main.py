@@ -2,10 +2,12 @@ from Deck_Parser import *
 from itertools import combinations as combi
 import pandas as pd
 from time import sleep
+from output_log_mtga import personal_collection
 
-class Aggregator:
+class Aggregator(personal_collection):
 
-    def __init__(self, training_list, rank =2):
+    def __init__(self, training_list, rank=2):
+        super(Aggregator, self).__init__()
         self._tdecks = training_list
 
         #Deck combinations a list of list of lists
@@ -18,8 +20,52 @@ class Aggregator:
         self._card_collective = self._construct_collective()
         self._combo_struct = self._define_struct(self._deck_combinations)
         self._decklist = (sorted(sorted(self._aggregate_decks(), key=lambda x:x[1]), key=lambda y: y[0]))
+        exportdecklist = self.format_decklist(self._decklist)
+
+        for x in exportdecklist:
+            print(x)
 
         #print(sorted(sorted(self._card_collective, key=lambda x: x[0]), key=lambda x: x[1]))
+
+    def format_decklist(self, decklist):
+        decklist = [x[1] for x in decklist]
+        singles = list(set(decklist))
+        singles = dict((ele, 0) for ele in singles)
+        for card in decklist:
+            singles[card] += 1
+        collection = self.arena_db
+        decklistpd = collection[collection['card_name'].isin(list(set(decklist)))]
+        exportlist = []
+        for card in list(set(decklist)):
+            if card in ['Plains', 'Mountain', 'Island', 'Forest', 'Swamp']:
+                exportlist.append(str(singles[card])+" "+ self.return_land(card))
+                continue
+            card_info = decklistpd[decklistpd['card_name'] == card][['card_name','collector_number','set']]
+            if card_info.empty:
+                card_info = collection[collection['card_name'].str.contains(card)]
+            card_info = card_info.iloc[0]
+            name = card_info['card_name']
+            set_ = card_info['set']
+            if set_ == "dom":
+                set_ = "dar"
+            collector_number = card_info['collector_number']
+            quantity = singles[card]
+            exportlist.append(str(quantity)+" "+card+" "+"("+set_.upper()+")"+" "+collector_number)
+        return exportlist
+
+
+
+    def return_land(self, card):
+        if card == 'Plains':
+            return "Plains (M19) 263"
+        if card == 'Mountain':
+            return "Mountain (XLN) 275"
+        if card == 'Island':
+            return "Island (M19) 266"
+        if card == 'Forest':
+            return "Forest (M19) 280"
+        if card == 'Swamp':
+            return "Swamp (DAR) 258"
 
     @property
     def decklist(self):
@@ -109,5 +155,5 @@ if __name__ == '__main__':
     training_decks = parser.get_trainingdecks()
     b = Aggregator(training_decks)
 
-    print(b.decklist)
+    #print(b.decklist)
 
